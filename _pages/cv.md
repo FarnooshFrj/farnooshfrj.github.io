@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computer Science, McGill University, 2027 (expected)
+* Ph.D in Computer Science, McGill University, 2023-2027 (expected)
 * M.S. in Electrical Engineering, K. N. Toosi University, 2019
 * B.S. in Aerospace Engineering, K. N. Toosi University, 2016
 
@@ -44,7 +44,7 @@ Skills
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
+    {% [include archive-single-cv.html](https://scholar.google.com/citations?user=58KRtZsAAAAJ&hl=en&oi=ao) %}
   {% endfor %}</ul>
   
 Talks
