@@ -18,8 +18,8 @@ main:
   #- title: "Teaching"
   #  url: /teaching/    
     
-  #- title: "Demos"
-   #url: /portfolio/
+  - title: "Demos"
+    url: /portfolio/
         
   - title: "Blog Posts"
     url: /year-archive/
