@@ -10,7 +10,7 @@ main:
     url: /files/Resume_two_pages_2024.pdf
     
   - title: "Publications"
-    url: /publications/
+    url: https://scholar.google.ca/citations?user=58KRtZsAAAAJ&hl=en&oi=ao
 
   #- title: "Talks"
   #  url: /talks/    
