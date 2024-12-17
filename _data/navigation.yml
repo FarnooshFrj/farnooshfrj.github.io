@@ -7,7 +7,7 @@
 main:
   - title: "CV"
     #url: /cv/
-    url: /files/Resume_two_pages_2024.pdf
+    url: /files/Resume_two_pages_2024-noMobile.pdf
     
   - title: "Publications"
     url: https://scholar.google.ca/citations?user=58KRtZsAAAAJ&hl=en&oi=ao
