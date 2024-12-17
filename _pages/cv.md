@@ -40,7 +40,7 @@ French: Intermediate
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
-    {% [include archive-single-cv.html](https://scholar.google.com/citations?user=58KRtZsAAAAJ&hl=en&oi=ao) %}
+    {% [include archive-single-cv.html] %}
   {% endfor %}</ul>
   
 Talks
