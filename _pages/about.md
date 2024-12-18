@@ -13,7 +13,7 @@ Over the years, I’ve gained hands-on experience with Vision-Language Models, T
 
 Beyond academics, I strive to live a balanced and fulfilling life. Since January 2022, I’ve embraced self-exploration and mindfulness practices, which have profoundly transformed my perspective. Now in my 30s, I feel like I’m truly living!
 
-I’m not just a researcher—I’m a lifelong learner and a passionate explorer of hobbies. I’m learning French, improving my coding skills, painting with watercolors, and recently began playing the piano. I work out regularly, run three days a week in spring and summer (avoiding Montreal's icy winters!), and most importantly, I’ve stopped counting the candles on the cake. Instead, I savor every moment.
+I’m not just a researcher—I’m a lifelong learner and a passionate explorer of hobbies. I’m learning French, improving my coding skills, certified open water scuba diver, painting with watercolors, and recently began playing the piano. I work out regularly, run three days a week in spring and summer (avoiding Montreal's icy winters!), and most importantly, I’ve stopped counting the candles on the cake. Instead, I savor every moment.
 
 
 Recent Publications
