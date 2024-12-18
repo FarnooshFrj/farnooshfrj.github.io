@@ -1,6 +1,6 @@
 ---
 title: "Portfolio item number 1"
-excerpt: "Exploring the art of watercolor, one brushstroke at a time: <br/><img src='/images/wedd.png'>"
+excerpt: "portfolio: <br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
