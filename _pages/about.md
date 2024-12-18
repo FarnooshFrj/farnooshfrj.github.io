@@ -1,13 +1,20 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+I am a Ph.D. student at McGill University, working under the supervision of [Prof. Gregory Dudek](https://scholar.google.ca/citations?user=BSORuFoAAAAJ&hl=en) and [Prof. David Meger](https://scholar.google.ca/citations?user=gFwEytkAAAAJ&hl=en) in the MRL lab. My research journey spans diverse projects, including diver tracking and mapless navigation for off-road RC cars. During my Master's studies, I delved into Artificial Intelligence (AI) for the first time, focusing on driver drowsiness detection.
+
+Over the years, I’ve gained hands-on experience with Vision-Language Models, Transformers, Convolutional Neural Networks, Recurrent Neural Networks, Machine Learning algorithms, and Reinforcement Learning techniques. Currently, my focus is on multi-modal learning for robot in-hand manipulation, with a particular interest in combining vision and tactile data to advance robotic capabilities.
+
+Beyond academics, I strive to live a balanced and fulfilling life. Since January 2022, I’ve embraced self-exploration and mindfulness practices, which have profoundly transformed my perspective. Now in my 30s, I feel like I’m truly living!
+
+I’m not just a researcher—I’m a lifelong learner and a passionate explorer of hobbies. I’m learning French, improving my coding skills, painting with watercolors, and recently began playing the piano. I work out regularly, run three days a week in spring and summer (avoiding Montreal's icy winters!), and most importantly, I’ve stopped counting the candles on the cake. Instead, I savor every moment.
+
 
 A data-driven personal website
 ======
