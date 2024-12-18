@@ -13,7 +13,7 @@ Over the years, I’ve gained hands-on experience with Vision-Language Models, T
 
 Beyond academics, I strive to live a balanced and fulfilling life. Since January 2022, I’ve embraced self-exploration and mindfulness practices, which have profoundly transformed my perspective. Now in my 30s, I feel like I’m truly living!
 
-I’m not just a researcher—I’m a lifelong learner and a passionate explorer of hobbies. I’m learning French, improving my coding skills, certified open water scuba diver, painting with watercolors, and recently began playing the piano. I work out regularly, run three days a week in spring and summer (avoiding Montreal's icy winters!), and most importantly, I’ve stopped counting the candles on the cake. Instead, I savor every moment.
+I’m not just a researcher—I’m a lifelong learner and a passionate explorer of hobbies. I’m learning French, improving my coding skills, certified open water scuba diver, painting with watercolors, and recently began playing the piano. I work out regularly, run in spring and summer (avoiding Montreal's icy winters!), and most importantly, I’ve stopped counting the candles on the cake. Instead, I savor every moment.
 
 
 Recent Publications
@@ -22,7 +22,7 @@ This section features my most recent publications, accompanied by their abstract
 
 **[Uncertainty-aware hybrid paradigm of nonlinear MPC and model-based RL for offroad navigation: Exploration of transformers in the predictive model](https://ieeexplore.ieee.org/abstract/document/10610452)**
 
-n this paper, we investigate a hybrid scheme that combines nonlinear model predictive control (MPC) and model-based reinforcement learning (RL) for navigation planning of an autonomous model car across offroad, unstructured terrains without relying on predefined maps. Our innovative approach takes inspiration from BADGR, an LSTM-based network that primarily concentrates on environment modeling, but distinguishes itself by substituting LSTM modules with transformers to greatly elevate the performance of our model. Addressing uncertainty within the system, we train an ensemble of predictive models and estimate the mutual information between model weights and outputs, facilitating dynamic horizon planning through the introduction of variable speeds. Further enhancing our methodology, we incorporate a nonlinear MPC controller that accounts for the intricacies of the vehicle’s model and states.
+In this paper, we investigate a hybrid scheme that combines nonlinear model predictive control (MPC) and model-based reinforcement learning (RL) for navigation planning of an autonomous model car across offroad, unstructured terrains without relying on predefined maps. Our innovative approach takes inspiration from BADGR, an LSTM-based network that primarily concentrates on environment modeling, but distinguishes itself by substituting LSTM modules with transformers to greatly elevate the performance of our model. Addressing uncertainty within the system, we train an ensemble of predictive models and estimate the mutual information between model weights and outputs, facilitating dynamic horizon planning through the introduction of variable speeds. Further enhancing our methodology, we incorporate a nonlinear MPC controller that accounts for the intricacies of the vehicle’s model and states.
 
 **[Constrained Robotic Navigation on Preferred Terrains Using LLMs and Speech Instruction: Exploiting the Power of Adverbs](https://link.springer.com/chapter/10.1007/978-3-031-63596-0_11)**
 
