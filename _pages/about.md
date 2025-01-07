@@ -15,7 +15,7 @@ Beyond academics, I strive to live a balanced and fulfilling life. Since January
 
 I’m not just a researcher—I’m a lifelong learner with a passion for exploring new skills and hobbies. Whether it’s learning French, honing my coding expertise, scuba diving, painting watercolors, or picking up piano, I thrive on creativity and growth.
 
-I stay active with regular workouts and enjoy running during Montreal’s snow-free months. Life is too short to count candles on a cake, so I focus on cherishing every moment
+I stay active with regular workouts and enjoy running during Montreal’s snow-free months. Life is too short to count candles on a cake, so I focus on cherishing every moment.
 
 
 Recent Publications
