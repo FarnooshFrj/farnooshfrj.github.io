@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student at McGill University, working under the supervision of [Prof. Gregory Dudek](https://scholar.google.ca/citations?user=BSORuFoAAAAJ&hl=en) and [Prof. David Meger](https://scholar.google.ca/citations?user=gFwEytkAAAAJ&hl=en) in the MRL lab. My research journey spans diverse projects, including diver tracking and mapless navigation for off-road RC cars. During my Master's studies, I delved into Artificial Intelligence (AI) for the first time, focusing on driver drowsiness detection
+I am a Ph.D. student at McGill University, working under the supervision of [Prof. Gregory Dudek](https://scholar.google.ca/citations?user=BSORuFoAAAAJ&hl=en) and [Prof. David Meger](https://scholar.google.ca/citations?user=gFwEytkAAAAJ&hl=en) in the MRL lab. My research journey spans diverse projects, including diver tracking and mapless navigation for off-road RC cars. During my Master's studies, I delved into Artificial Intelligence (AI) for the first time, focusing on driver drowsiness detection.
 
 Over the years, I’ve gained hands-on experience with Vision-Language Models, Transformers, Convolutional Neural Networks, Recurrent Neural Networks, Machine Learning algorithms, and Reinforcement Learning techniques. Currently, my focus is on multi-modal learning for robot in-hand manipulation, with a particular interest in combining vision and tactile data to advance robotic capabilities.
 
